@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="icon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/quanLyBanGiayBG_Seven/src/image/icon.zip!/" />
+      <root url="jar://E:/TaiNguyenJava/mockito-core-5.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
